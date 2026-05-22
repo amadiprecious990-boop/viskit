@@ -1,7 +1,7 @@
 name = "precious" #string variable
 age = 20 # integer
 height = 6.2 # float
-is_onine = True #boolean
+is_online = True # boolean
 # camelCase:  (e.g., firstName, calculateTotalAmount).
 # PascalCase: (e.g., FirstName, CustomerRecord).
 # snake_case:  (e.g., first_name, user_account_id).
